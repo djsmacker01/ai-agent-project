@@ -52,7 +52,7 @@ touch .env
 OPENAI_API_KEY=your_api_key_here
 ```
 
-> ⚠️ **Important**: I've already set up `.gitignore` to protect your API key - never commit the `.env` file!
+> ⚠️ **Important**: I've already set up `.gitignore` to protect my API key, i never commit the `.env` file!
 
 ### Step 3: Run My Agent
 
